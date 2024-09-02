@@ -20,4 +20,4 @@ Dynamic Pricing is an application of Data Science that involves adjusting produc
 **NumPy:** A library for numerical computations, which provides support for arrays and matrices along with a collection of mathematical functions to operate on these arrays.<br>
 **Matplotlib:** A plotting library for creating static, interactive, and animated visualizations in Python.<br>
 **Seaborn:** A statistical data visualization library based on Matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.<br>
-*SciKit Learn:** Random Forest regression model is used for making prediction to predict prices considering various factors .
+**SciKit Learn:** Random Forest regression model is used for making prediction to predict prices considering various factors .
